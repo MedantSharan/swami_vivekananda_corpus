@@ -199,7 +199,7 @@ The analysis was undertaken with reverence for the source material and the under
 
 For questions, corrections, or collaboration:
 - **GitHub Issues**: [Open an issue](https://github.com/[yourusername]/vivekananda-corpus-analysis/issues)
-- **Email**: [your-email]
+- **Email**: [medsharanofficial@gmail.com]
 
 ## Version History
 
