@@ -80,7 +80,7 @@ All methods are detailed with code in the notebooks and explained in the researc
 
 ## Repository Structure
 
-This repository contains all computational notebooks used in the analysis. The notebooks are organized by corpus type (public/private) and analysis method. **All notebooks are referenced and explained in the main PDF document.**
+This repository contains all computational notebooks used in the analysis. The notebooks are organized by corpus type (public/private) and analysis method. **All notebooks are referenced and explained in the Swami_Vivekananda_Corpus_Analysis.pdf document.**
 
 All the data used is given in the **datasets** directory. Check the first cell of each notebook to see which dataset it requires.
 
@@ -149,8 +149,9 @@ If you use this work in your research, please cite:
   author={[Medant Sharan]},
   year={2026},
   institution={Independent Research},
-  doi={10.5281/zenodo.XXXXXXX},
-  url={https://zenodo.org/record/XXXXXXX}
+doi={10.5281/zenodo.18308877},
+url={https://doi.org/10.5281/zenodo.18308877}
+
 }
 ```
 
@@ -162,12 +163,10 @@ If you use this work in your research, please cite:
   year={2026},
   publisher={GitHub},
   version={v1.0},
-  doi={10.5281/zenodo.YYYYYYY},
-  url={https://github.com/[yourusername]/vivekananda-corpus-analysis}
+  doi={10.5281/zenodo.18308877},
+  url={https://github.com/MedantSharan/swami_vivekananda_corpus}
 }
 ```
-
-See [CITATION.cff](CITATION.cff) for machine-readable citation metadata.
 
 ## License
 
@@ -196,7 +195,7 @@ The analysis was undertaken with reverence for the source material and the under
 ## Contact & Feedback
 
 For questions, corrections, or collaboration:
-- **GitHub Issues**: [Open an issue](https://github.com/[yourusername]/vivekananda-corpus-analysis/issues)
+- **GitHub Issues**: [Open an issue](https://github.com/MedantSharan/swami_vivekananda_corpus/issues)
 - **Email**: [medsharanofficial@gmail.com]
 
 ## Version History
