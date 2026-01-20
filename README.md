@@ -1,5 +1,5 @@
 # Computational Analysis of Swami Vivekananda's Complete Works
-[![DOI](https://zenodo.org/badge/18308877.svg)](https://doi.org/10.5281/zenodo.18308877)
+[![DOI](https://img.shields.io/badge/DOI-10.5281%2Fzenodo.18308877-blue)](https://doi.org/10.5281/zenodo.18308877)
 [![License: CC BY 4.0](https://img.shields.io/badge/License-CC%20BY%204.0-lightgrey.svg)](https://creativecommons.org/licenses/by/4.0/)
 
 
