@@ -39,7 +39,9 @@ All data sourced from publicly available materials. Swami Vivekananda's works ar
 
 5. **Sri Ramakrishna Mentions**: Patterns in how Sri Ramakrishna is mentioned in lectures and discourses, along with devanagri/sanskrit usage patterns.
 
-6. **Outlier Detection**: Statistical methods to identify outlier talks/speeches/lectures and interpreting reasons.
+6. **Stylometry**: Analyzing public discources and writings using stylometric methods to find outliers.
+
+7. **Outlier Detection**: Statistical methods to identify outlier talks/speeches/lectures and interpreting reasons.
 
 
 
@@ -57,9 +59,11 @@ All data sourced from publicly available materials. Swami Vivekananda's works ar
 
 6. **Editorial Redactions**: Computational detection of 13 redacted recipient names in published letters, opening questions for biographical research.
 
-7. **Epistolary Networks**: Network analysis showing various patterns like co-mentions, cross-mentions and bridge-building between east and west. 
+7. **Epistolary Networks**: Network analysis showing various patterns like co-mentions, cross-mentions and bridge-building between east and west.
+
+8. **Stylometry**: Analyzing public discources and writings using stylometric methods to find outliers.
    
-8. **Sri Ramakrishna Mentions**: Patterns in how Swamiji refers to Sri Ramakrishna in his private correspondences, along with sanskrit usage analysis. 
+9. **Sri Ramakrishna Mentions**: Patterns in how Swamiji refers to Sri Ramakrishna in his private correspondences, along with sanskrit usage analysis. 
 
 **→ Full details, visualizations, and analysis in [Swami_Vivekananda_Corpus_Analysis.pdf]**
 
