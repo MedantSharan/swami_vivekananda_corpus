@@ -25,7 +25,7 @@ This README provides a brief overview. The PDF contains the full 150+ page resea
 - **Languages**: Primarily English, with Bengali, Sanskrit, Hindi, French
 - **Geographic Coverage**: India, America, England, and other locations
 
-All data sourced from publicly available materials. Swami Vivekananda's works are in the public domain. The datasets made are included in this repository.
+All data sourced from publicly available materials. Swami Vivekananda's works are in the public domain. The datasets constructed are included in this repository.
 
 ## Key Findings (Summary)
 
@@ -33,31 +33,35 @@ All data sourced from publicly available materials. Swami Vivekananda's works ar
 
 1. **The 1897-99 Collapse**: Quantitative documentation of dramatically reduced public output during the organizational founding period in India.
 
-2. **Location-Based Pedagogy**: Statistical evidence that Swamiji systematically adapted his message by geography (America: epics and basics; India: technical philosophy; England: Western bridges).
+2. **Location-Based Pedagogy**: Statistical evidence that Swamiji systematically adapted his message by geography (profile switching).
 
-3. **Topic Modeling and PCA**: PCA revealed a perfect triangular structure in 10-D document space, indicating governance by a small number of dominant archetypes.
+3. **Topic Modeling and PCA**: PCA revealed a perfect geometry in 10-D document space, indicating governance by a small number of dominant archetypes.
 
-4. **Topic Evolution**: Five dominant themes tracked over time, with strategic variations in emphasis (e.g., Indian Nationalism peaking in 1893 and 1898-99).
+4. **Topic Evolution**: LDA for topic modelling and finding topical patterns time, geography, audience etc.
 
-5. **Sri Ramakrishna Mentions**: Patterns in how Sri Ramakrishna is mentioned in lectures and discourses, along with devanagri/sanskrit usage.
+5. **Sri Ramakrishna Mentions**: Patterns in how Sri Ramakrishna is mentioned in lectures and discourses, along with devanagri/sanskrit usage patterns.
 
-6. **Outlier Detection**: Statistical methods independently identified "Inspired Talks" as the most anomalous document, validating its unique spiritual character.
+6. **Outlier Detection**: Statistical methods to identify outlier talks/speeches/lectures and interpreting reasons.
 
 
 
 ### Part 2: Private Corpus Analysis
 
-1. **Epistolary Networks**: Network analysis revealing distinct Western (1893-97) and Indian (1897-99) correspondence clusters with different relational dynamics.
+1. **Signature Patterns**: Hundreds unique signatures identified, with recipient-specific patterns showing contextual code-switching.
 
-2. **Signature Patterns**: 247 unique signatures identified, with recipient-specific patterns showing cultural code-switching ("With blessings" vs "With love").
+2. **Correspondence Timelines**: Tracking all of Swamiji's major correspondents temporally using letter frequency to visualize evolution of relationships.
 
-3. **Sri Ramakrishna Mentions**: Strategic invocation patterns - mentioned in only 15% of public documents but concentrated in intimate settings like Inspired Talks.
+3. **PCA and Relationship Trajectory**: PCA interpretation to model categories of letters and tracking relationship with recipient over time
 
-4. **Temporal Evolution**: Chronological analysis showing how letter length, complexity, and postscript usage evolved across Swamiji's active years.
+4. **Temporal Evolution**: Chronological analysis showing how letter length, complexity, signatures and postscript usage evolved across Swamiji's active years.
 
 5. **Semantic Clustering**: Embeddings along with UMAP projections revealing four distinct letter types based on content, with geographical and temporal patterns.
 
 6. **Editorial Redactions**: Computational detection of 13 redacted recipient names in published letters, opening questions for biographical research.
+
+7. **Epistolary Networks**: Network analysis showing various patterns like co-mentions, cross-mentions and bridge-building between east and west. 
+   
+8. **Sri Ramakrishna Mentions**: Patterns in how Swamiji refers to Sri Ramakrishna in his private correspondences, along with sanskrit usage analysis. 
 
 **→ Full details, visualizations, and analysis in [Swami_Vivekananda_Corpus_Analysis.pdf]**
 
@@ -71,8 +75,8 @@ This analysis employed:
 - **PCA & UMAP** - Dimensionality reduction and visualization
 - **Network Analysis** - Co-mention patterns and correspondence networks
 - **Semantic Embeddings** - Embeddings-based similarity analysis
-- **Syntactic Complexity Metrics** - Sentence structure and elaboration patterns
-- **Outlier Detection** - Statistical identification of unusual documents
+- **Syntactic Complexity Metrics** - Sentence structure and elaboration patterns 
+- **Outlier Detection** - Isolation forests, centroid distance etc. for statistical identification of outliers
 
 All methods are detailed with code in the notebooks and explained in the research document.
 
