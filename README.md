@@ -11,7 +11,7 @@
 
 This repository contains the **first comprehensive computational analysis** of Swami Vivekananda's Complete Works (1888-1902), applying Natural Language Processing and corpus linguistics to over **1 million words** from **975 public documents** and **762 private letters**.
 
-**📄 For complete findings, methodology, and interpretations**: Please read [Swami_Vivekananda_Corpus_Analysis.pdf](link-to-pdf)
+**📄 For complete findings, methodology, and interpretations**: Please read [Swami_Vivekananda_Corpus_Analysis.pdf]([link-to-pdf](https://github.com/MedantSharan/swami_vivekananda_corpus/blob/main/Swami_Vivekananda_Corpus_Analysis.pdf))
 
 This README provides a brief overview. The PDF contains the full 150+ page research narrative with detailed analysis, visualizations, and insights.
 
